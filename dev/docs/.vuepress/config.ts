@@ -13,6 +13,10 @@ export default defineUserConfig({
 
             // NavbarGroup
             {
+                text:'首页',
+                link:'https://www.starcitizenzh.com',
+            },
+            {
                 text:'使用邀请码注册游戏账号',
                 link:'https://robertsspaceindustries.com/enlist?referral=STAR-2627-3QD2',
             },
