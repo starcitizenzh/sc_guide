@@ -5,8 +5,9 @@ export default defineUserConfig({
     title: '星际公民公民中文指导',
     description: '这是一个用于了解星际公民的手册',
     base: '/sc_guide/',
+    
     theme: defaultTheme({
-
+        logo: '/images/starcitizenzh.png',
         navbar: [
             // NavbarItem
 
@@ -55,16 +56,17 @@ export default defineUserConfig({
 
             '/',
             '/tutorial/',
-            {
-                text: 'Category2_nest',
-                link: '/Category_2/',
-                children: [
-                    // SidebarItem
-                    '/Category_2/test1.md',
-                    // 字符串 - 页面文件路径
-                    '/Category_2/test2.md',
-                ],
-            },
+            '/videos/',
+            // {
+            //     text: 'Category2_nest',
+            //     link: '/Category_2/',
+            //     children: [
+            //         // SidebarItem
+            //         '/Category_2/test1.md',
+            //         // 字符串 - 页面文件路径
+            //         '/Category_2/test2.md',
+            //     ],
+            // },
 
 
         ],
