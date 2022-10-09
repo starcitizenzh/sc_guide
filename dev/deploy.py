@@ -1,5 +1,5 @@
 import shutil
-# import os
+import os
 print('删除docs...')
 shutil.rmtree(r'../docs')
 print('删除docs成功!')
