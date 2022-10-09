@@ -25,13 +25,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/GitHub/sc_guide"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\sc_guide" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="deploy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sc_guide" />
@@ -70,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665217262250</updated>
       <workItem from="1665217263521" duration="1380000" />
-      <workItem from="1665283916037" duration="437000" />
+      <workItem from="1665283916037" duration="831000" />
     </task>
     <servers />
   </component>
