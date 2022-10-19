@@ -61,6 +61,7 @@ export default defineUserConfig({
             '/',
             '/tutorial/',
             '/videos/',
+            '/news/',
             // {
             //     text: 'Category2_nest',
             //     link: '/Category_2/',
