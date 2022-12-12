@@ -50,6 +50,11 @@ export default defineUserConfig({
                             text: '星际公民Reddit',
                             link: 'https://www.reddit.com/r/starcitizen/',
                         },
+                         {
+                            text: '星际公民汉化组',
+                            link: 'https://starcitizenzw.com/',
+                        },
+
                       
                     ],            
             },
