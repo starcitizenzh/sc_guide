@@ -1,41 +1,47 @@
 {
-  "hash": "00495bfb",
-  "browserHash": "64e98f83",
+  "hash": "72f89302",
+  "browserHash": "435d05af",
   "optimized": {
     "@vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "b05a00b7",
+      "fileHash": "6dd07f95",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "7fd9b097",
+      "fileHash": "504a7e04",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "a6272b1f",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "9a3d12e8",
+      "fileHash": "b70485ad",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "de1a8699",
+      "fileHash": "6dc75428",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-RFQTXRIF": {
-      "file": "chunk-RFQTXRIF.js"
+    "chunk-J4VLYDXT": {
+      "file": "chunk-J4VLYDXT.js"
     },
-    "chunk-AWA6B2ZS": {
-      "file": "chunk-AWA6B2ZS.js"
+    "chunk-DSEQG6WU": {
+      "file": "chunk-DSEQG6WU.js"
     },
-    "chunk-JXWQMH7G": {
-      "file": "chunk-JXWQMH7G.js"
+    "chunk-OB5VABF2": {
+      "file": "chunk-OB5VABF2.js"
     }
   }
 }
