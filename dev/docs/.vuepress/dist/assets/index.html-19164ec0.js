@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"游戏简介","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1665216820000,"contributors":[{"name":"donnyjin","email":"jin52627042@gmail.com","commits":3}]},"filePathRelative":"README.md"}');export{a as data};

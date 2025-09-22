@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f5fb3a84","path":"/videos/","title":"星际公民相关视频","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1665216820000,"contributors":[{"name":"donnyjin","email":"jin52627042@gmail.com","commits":1}]},"filePathRelative":"videos/README.md"}');export{e as data};
