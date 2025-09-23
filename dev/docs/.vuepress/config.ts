@@ -29,11 +29,11 @@ export default defineUserConfig({
                             link: 'https://robertsspaceindustries.com/',
                         },
                         {
-                            text: '星际公民Youtube',
+                            text: '星际公民官方Youtube',
                             link: 'https://www.youtube.com/c/RobertsSpaceInd/',
                         },
                         {
-                            text: '星际公民Twitch',
+                            text: '星际公民官方Twitch',
                             link: 'https://www.twitch.tv/starcitizen/',
                         },
                     ],            
@@ -53,6 +53,10 @@ export default defineUserConfig({
                          {
                             text: '星际公民汉化组',
                             link: 'https://starcitizenzw.com/',
+                        },
+                        {
+                            text: '星际公民中文百科',
+                            link: 'https://citizenwiki.cn/',
                         },
 
                       
