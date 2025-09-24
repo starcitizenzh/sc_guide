@@ -48,7 +48,7 @@ export default defineUserConfig({
                         },
                         {
                             text: '星际公民中文资讯',
-                            link: 'hhttps://starcitizenzh.com/starcitizen_news/',
+                            link: 'https://starcitizenzh.com/starcitizen_news/',
                         },
                          {
                             text: '星际公民汉化组',
