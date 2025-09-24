@@ -47,8 +47,8 @@ export default defineUserConfig({
                             link: 'https://tieba.baidu.com/f?kw=%E6%98%9F%E9%99%85%E5%85%AC%E6%B0%91&ie=utf-8/',
                         },
                         {
-                            text: '星际公民Reddit',
-                            link: 'https://www.reddit.com/r/starcitizen/',
+                            text: '星际公民中文资讯',
+                            link: 'hhttps://starcitizenzh.com/starcitizen_news/',
                         },
                          {
                             text: '星际公民汉化组',
@@ -57,6 +57,10 @@ export default defineUserConfig({
                         {
                             text: '星际公民中文百科',
                             link: 'https://citizenwiki.cn/',
+                        },
+                        {
+                            text: '星际公民Reddit',
+                            link: 'https://www.reddit.com/r/starcitizen/',
                         },
 
                       
